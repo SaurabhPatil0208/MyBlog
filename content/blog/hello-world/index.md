@@ -1,7 +1,7 @@
 ---
-title: Hello World
+title: First Blog
 date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+description: "Hello this is Saurabh Patil. Tried to start a new experience with blog."
 ---
 
 This is my first post on my new fake blog! How exciting!
